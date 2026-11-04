@@ -84,6 +84,23 @@ The following Machine Learning classification models were implemented:
 | Overall Winner | Support Vector Machine (SVM) |
 
 ---
+# 🏆 Results and Best Model Observation
+
+## Best Metrics Achieved
+
+- **Highest Accuracy:** Logistic Regression and SVM (0.9825)
+- **Highest AUC:** Logistic Regression (0.9954)
+- **Highest Precision:** Logistic Regression and SVM (0.9861)
+- **Highest Recall:** Logistic Regression and SVM (0.9861)
+- **Highest F1 Score:** Logistic Regression and SVM (0.9861)
+- **Highest MCC Score:** Logistic Regression and SVM (0.9623)
+
+
+Accuracy alone should not be used to select the best model.
+Precision and Recall help evaluate classification trade-offs.
+F1 Score provides a balance between Precision and Recall.
+MCC is a robust metric for evaluating binary classification performance.
+Based on the overall evaluation metrics, especially F1 Score and MCC, the best-performing models are [Logistic Regression and SVM]
 
 # 📈 Evaluation Metrics
 

@@ -66,13 +66,9 @@ The following Machine Learning classification models were implemented:
 
 # 📊 Model Comparison Table
 
-| ML Model Name | Accuracy | AUC | Precision | Recall | F1 Score | MCC |
-|--------------|----------|-----|-----------|--------|----------|-----|
-| Logistic Regression | XX | XX | XX | XX | XX | XX |
-| Decision Tree | XX | XX | XX | XX | XX | XX |
-| KNN | XX | XX | XX | XX | XX | XX |
-| Naive Bayes | XX | XX | XX | XX | XX | XX |
-| SVM | XX | XX | XX | XX | XX | XX |
+
+<img width="1239" height="204" alt="image" src="https://github.com/user-attachments/assets/455a5f4c-7ac6-4b33-9f63-7e6dff07d101" />
+
 
 ---
 
@@ -165,9 +161,7 @@ streamlit run app.py
 
 Add your Streamlit URL here.
 
-Example:
-
-https://your-app-name.streamlit.app
+https://breast-cancer-28grvn25ewokpstf8vudqx.streamlit.app/
 
 ---
 

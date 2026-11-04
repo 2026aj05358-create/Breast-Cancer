@@ -17,7 +17,7 @@ from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 
 st.set_page_config(page_title="ML Classification Comparison", layout="wide")
-st.title("Classification Model Comparison")
+st.title(""🎀 Breast Cancer Classification Model"")
 st.caption("Logistic Regression, Decision Tree, KNN, Naive Bayes and SVM, evaluated on one dataset.")
 
 
